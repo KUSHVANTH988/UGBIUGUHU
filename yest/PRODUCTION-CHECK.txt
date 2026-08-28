@@ -1,0 +1,5 @@
+CHAKRIN PRODUCTION READY
+20 inner pages present
+0 broken local HTML links verified
+404.html present
+.htaccess present
